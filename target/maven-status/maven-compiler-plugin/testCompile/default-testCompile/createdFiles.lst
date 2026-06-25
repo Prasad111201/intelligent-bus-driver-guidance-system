@@ -1,0 +1,4 @@
+com\bus\integration\BusRepositoryIntegrationTest.class
+com\bus\integration\DriverRepositoryIntegrationTest.class
+com\bus\unit\DriverValidatorTest.class
+com\bus\unit\BusValidatorTest.class

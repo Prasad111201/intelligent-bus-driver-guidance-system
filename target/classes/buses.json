@@ -1,0 +1,6 @@
+[ {
+  "busID" : "12345678",
+  "capacity" : 45,
+  "fuelLevel" : 90.0,
+  "fuelType" : "Diesel"
+} ]

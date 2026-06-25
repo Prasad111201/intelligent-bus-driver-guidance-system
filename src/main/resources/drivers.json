@@ -1,0 +1,8 @@
+[ {
+  "driverID" : "56@@abCDXY",
+  "name" : "John Smith",
+  "experienceYears" : 5,
+  "licenseType" : "Heavy",
+  "address" : "12|King Street|Melbourne|VIC|Australia",
+  "birthdate" : "15-08-1995"
+} ]
