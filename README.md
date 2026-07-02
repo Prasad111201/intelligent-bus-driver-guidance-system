@@ -30,7 +30,7 @@ The Intelligent Bus Driver Guidance System is a Java-based application developed
 
 ## Technologies Used
 
-- Java 21
+- Java 25
 - Maven
 - JUnit 5
 - Jackson Databind
